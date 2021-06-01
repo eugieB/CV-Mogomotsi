@@ -1,55 +1,12 @@
 <html> 
- <script> <a></script>
+
     <!-- Styles -->	
 <style>
-.example1 {
- height: 50px;	
- overflow: hidden;
- position: relative;
-}
-.example1 h3 {
- font-size: 3em;
- color: limegreen;
- position: absolute;
- width: 100%;
- height: 100%;
- margin: 0;
- line-height: 50px;
- text-align: center;
- /* Starting position */
- -moz-transform:translateX(100%);
- -webkit-transform:translateX(100%);	
- transform:translateX(100%);
- /* Apply animation to this element */	
- -moz-animation: example1 15s linear infinite;
- -webkit-animation: example1 15s linear infinite;
- animation: example1 15s linear infinite;
-}
-/* Move it (define the animation) */
-@-moz-keyframes example1 {
- 0%   { -moz-transform: translateX(100%); }
- 100% { -moz-transform: translateX(-100%); }
-}
-@-webkit-keyframes example1 {
- 0%   { -webkit-transform: translateX(100%); }
- 100% { -webkit-transform: translateX(-100%); }
-}
-@keyframes example1 {
- 0%   { 
- -moz-transform: translateX(100%); /* Firefox bug fix */
- -webkit-transform: translateX(100%); /* Firefox bug fix */
- transform: translateX(100%); 		
- }
- 100% { 
- -moz-transform: translateX(-100%); /* Firefox bug fix */
- -webkit-transform: translateX(-100%); /* Firefox bug fix */
- transform: translateX(-100%); 
- }
-}
+
 </style>
 
 <!-- HTML -->	
-<div class="example1">
+
 <h3> MOGOMOTSI GUMEDE </h3>
 </div>
 <style> 
@@ -60,13 +17,11 @@ color
     width: 220px;
     height: 150px;
     padding: 10px;
-    background-color: yellowgreen;
-    background-image: url("");
+    background-color:grey;
     border: 20px solid rgba(0,0,0,0.3);
     background-size: contain;
 }
 </style>
-<div class="background">
 
 </style>
 <h> 
@@ -76,13 +31,6 @@ color
  however talk to people would be that you need just remember that it is money that they require.
  Manager has be suiting up and making sure that its right to be before it. 
  Other people lost but When technology it is fun. But it should be nice for wha<t. It should be perfect.</p> <br>
- <h> Mogomotsi Gumede </h>
- <p> Who am I? </p>
- <br>
-<iframe width="727" height="409" src="https://www.youtube.com/embed/XnhI56BAQjc"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
-encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- <br>
 <center>
 <h2> 7 Cedar Crest, </h2>
 <h2> Greenhills, </h2>
