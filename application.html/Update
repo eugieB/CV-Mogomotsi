@@ -1,11 +1,8 @@
 <html> 
 
-    <!-- Styles -->	
 <style>
 
 </style>
-
-<!-- HTML -->	
 
 <h3> MOGOMOTSI GUMEDE </h3>
 </div>
@@ -18,8 +15,7 @@ color
     height: 150px;
     padding: 10px;
     background-color:grey;
-    border: 20px solid rgba(0,0,0,0.3);
-    background-size: contain;
+    
 }
 </style>
 
@@ -35,10 +31,7 @@ color
 <h2> 7 Cedar Crest, </h2>
 <h2> Greenhills, </h2>
 <h2> Randfontein <h2>
-<h1>The Beginning </h2>
 </center>
-<br>
-<p> I’m flexible regarding hours of work including evenings. </p>
 <br>
 <p> WORK EXPERIENCE </p>
 <sup> July – Aug </sup>
@@ -46,7 +39,7 @@ color
 <br>
 <nav>
 <li>	Till work </li>
-<li>Replenishing of stock </li>
+<li>    Replenishing of stock </li>
 <li>	Dealing with customer’s desires </li>
 <li>	Deciding on potential stock </li>
 <li>	Pricing new stock </li>
@@ -92,14 +85,8 @@ working independently and with other colleagues in either situations like proble
 project planning. Reviewing technological products (laptops, software & consoles) 
 and creating websites for my wearable technology based project. </p>
 <br> 
-<br>
 <li> Home Contact: 02035603627 </li>
 <li> Email: sayamogomotsi@yahoo.co.uk </li>
 <li> Personal Contact: 07710586196 </li>
 <h2> About my hobbies and music tastes for research </h2>
-<marquee behavior="alternate"> Your bouncing text goes here
-The work that I have to make is made to be perfect, and unique. But I would just say that 
-the programming style is not the best thing so far. but Using visual studio has been bad. 
-How can you code when you have just been through a teaching experience. The worst thing I have to do is to make it easier for myself to be more black for the screen. </marquee>
-
 </html> 
