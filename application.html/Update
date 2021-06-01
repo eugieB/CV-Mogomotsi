@@ -1,92 +1,92 @@
-<html> 
-
-<style>
-
-</style>
+<DOCTYPE html PUBBLIC> 
 
 <h3> MOGOMOTSI GUMEDE </h3>
-</div>
+<h4> WEB Designer, Trainee </h4>
+<h1> 07710586196 </h1>
 <style> 
-color
-{
-    background-color: brown;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    width: 220px;
-    height: 150px;
-    padding: 10px;
-    background-color:grey;
-    
-}
-</style>
 
+h2 {
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h4 {
+
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    font-size: 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p1 {
+    font-size: 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+    html{
+        background-color: lightgrey;
+    };
+
+    h2 {
+        font: size 10px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        text-decoration: underline;
+    }
+    
+    p2{
+        font-size: 10px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
 </style>
-<h> 
- <p> The CV at which I will have to use is that I want to work at a another called Standard bank. 
- But the best thing about working for a bank is that you can be warm and were a suit and walk about and drink coffee, 
- only to maintain the fact that you should spill a drop.
- however talk to people would be that you need just remember that it is money that they require.
- Manager has be suiting up and making sure that its right to be before it. 
- Other people lost but When technology it is fun. But it should be nice for wha<t. It should be perfect.</p> <br>
+<p style="border-bottom:1px solid black;"></p>
+
+<h2> Profile</h2>
+ <p1> The CV at which I will have to use is that I want to work at a another called Standard bank. 
+ But the best thing about working for a bank is that you can be warm and were a suit and walk about and drink coffee, only to maintain the fact that you should spill a drop. </p>
 <center>
-<h2> 7 Cedar Crest, </h2>
-<h2> Greenhills, </h2>
-<h2> Randfontein <h2>
+<p style="border-bottom:1px solid black;"></p>
+<h2> Skills </h2>
+<p style="border-bottom:1px solid black;"></p>
+<h2> Words Online </h2>
+<p2> Proficient in Microsoft office applications (Word, Excel & PowerPoint etc.)</p2>
+
+<h2> Interface Design</h2>
+<p2> Working independently and with other colleagues in either situations like problem solving and project planning. </p2>
+<h2> Personal Project.</h2>
+<p2> Reviewing technological products (laptops, software & consoles) and creating websites for my wearable technology based project. </p2>
 </center>
 <br>
-<p> WORK EXPERIENCE </p>
+
+ <h3>Technical </h3>
+  <li> PHP </li>
+ <li> CSS</li> 
+ <li> Javascript</li> 
+ <li> OS X </li>
+ <li> Windows XP/Vista</li>
+ <li> Linux </li>
+
+<h4> EXPERIENCE </h4>
+<h3> Oxfam </h3>
 <sup> July – Aug </sup>
-(2015) Oxfam, Putney High Street London – Volunteer: Sales assistant 
+<h2> Sales assistant</h2>
+<p>Till work Replenishing of stock. Dealing with customer’s desires. Deciding on potential stock. Pricing new stock. Counting and updating stock (checking) via computer system. Dealing with customer’s donations </p>
 <br>
-<nav>
-<li>	Till work </li>
-<li>    Replenishing of stock </li>
-<li>	Dealing with customer’s desires </li>
-<li>	Deciding on potential stock </li>
-<li>	Pricing new stock </li>
-<li>	Counting and updating stock (checking) via computer system </li>
-<li>	Dealing with customer’s donations </li>
-</nav>
-<br>
- <p> June - July </p>
- <sup> (2011)</sup>  <p>Boots, London Clapham Falcon Lane – Sales Assistant </p>
-<li>Served customers and dealt with complaints </li>
-<li>	Assisting with product selection </li>
-<li>	Stocking, replenishing and cleaning sales areas </li>
-<li>	Monitoring and updating sales and display areas </li>
-<li>	Offering advice and further information to customers</li>
-<li>	Utilising specialist product knowledge </li>
-<br>
-<h> EDUCATION </h>
-<p> 2015 – Present   Liverpool University, Carmel College – (Liverpool, England) <p>
-<p> Undergraduate: Computer Science <p>
-<br>
-<sup> 2013 – 2015 </sup> <h> ARK Putney Academy – (Pullman Gardens, London) </h>
-<p> A-levels/Diploma:  Information Technology (Distinction), Business Studies (Distinction* x2) </p>
-<p> 2010 - 2013  St John Bosco College (Battersea, London) </p>
-<p> GCSE Higher: English (C), Maths (C), Physic (C), Biology(C), Chemistry (B), Information Technology (Merit). </p>
-<p> 2008 - 2010: John Paul Secondary School – (Princes Way, London) </p>
-<p> 2002 – 2007: Westgold Primary School – (Randfontein, Johannesburg, South Africa) </p>
-<p> Apple Inc Store</p>
-<br>
-<h1 > ADDITIONAL INFORMATION </h1>
-<br>
-<h2> ACHIEVEMENTS </h2>
-<p> 2012 - Present School Prefect </p>
-<p> 2011 - 2012 Dragons Den School’s competition winners (4th) <p>
-<h> INTERESTS & HOBBIES: </h>
-<br>
-<p> Tennis, alto saxophone.<p>
-<p> English literature (classics), 
-weekly understanding of programming languages (Python & C++) through MIT opencourseware (website) and daily short story writing.
-<h2> SKILLS </h2>
-<br>
-<p> Proficient in Microsoft office applications (Word, Excel & PowerPoint etc.), 
-working independently and with other colleagues in either situations like problem solving and 
-project planning. Reviewing technological products (laptops, software & consoles) 
-and creating websites for my wearable technology based project. </p>
-<br> 
-<li> Home Contact: 02035603627 </li>
-<li> Email: sayamogomotsi@yahoo.co.uk </li>
-<li> Personal Contact: 07710586196 </li>
-<h2> About my hobbies and music tastes for research </h2>
-</html> 
+<p style="border-bottom:1px solid black;"></p>
+<h3> Boots </h3>
+ <h2> Sales Manager </h2>
+ <sup> June - July </sup> 
+ <br><br>
+<p3> Served customers and dealt with complaints assisting with product selection stocking, replenishing and cleaning sales areas, monitoring and updating sales and display areas. Offering advice and further information to customers,Utilising specialist product knowledge. </p3>
+<p style="border-bottom:1px solid black;"></p>
+<h3> EDUCATION </h3>
+<p> 2015 – Present   Liverpool University, Carmel College (Liverpool, England)
+<p> Undergraduate: Computer Science
+Degree </p>
+<p style="border-bottom:1px solid black;"></p>
+</html>  
